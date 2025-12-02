@@ -6,7 +6,7 @@ I'm still early in my journey, but I love learning, building, and improving step
 
 ---
 
-## 🚀 Skills & Tools
+## Skills & Tools
 - **Languages:** Python, C++
 - **Web:** HTML, CSS, JavaScript (beginner)
 - **Tools:** Git, VS Code
@@ -14,14 +14,14 @@ I'm still early in my journey, but I love learning, building, and improving step
 
 ---
 
-## 🎮 Projects (Learning Stage)
+## Projects (Learning Stage)
 I'm currently building small beginner-friendly projects to improve my skills.  
 More will be uploaded soon!
 
-### 🕹️ Python Mini Games  
+### Python Mini Games  
 Small command-line or Pygame prototypes created while learning game logic, events, and simple UI.
 
-### 🌐 Simple Web Pages  
+### Simple Web Pages  
 Practice projects using HTML/CSS/JS to understand layouts, styling, and DOM basics.
 
 ---
